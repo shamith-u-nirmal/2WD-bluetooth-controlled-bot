@@ -54,7 +54,7 @@ This is the first stage of a long-term robotics project that will eventually inc
 
 ## Demo
 
-See the video in the `media/` folder.
+See the video [here](https://www.youtube.com/shorts/QXy0v4SZiB4).
 
 ## Roadmap
 
